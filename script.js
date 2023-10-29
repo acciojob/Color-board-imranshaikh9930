@@ -15,7 +15,7 @@ for (let i = 0; i < 800; i++) {
     square.classList.add('square');
     
    
-    square.style.backgroundColor = "rgb(29, 29, 29";
+    square.style.backgroundColor = "rgb(29, 29, 29)";
     
   
     square.addEventListener('mouseover', () => {
@@ -28,7 +28,7 @@ for (let i = 0; i < 800; i++) {
         }, 1000);
 
         setTimeout(() => {
-          square.style.backgroundColor = "rgb(29, 29, 29";
+          square.style.backgroundColor = "rgb(29, 29, 29)";
       }, 1000);
       
     });
